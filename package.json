@@ -1,6 +1,6 @@
 {
   "name": "@modusintegration/swagger-tools",
-  "version": "0.10.4-modus",
+  "version": "0.10.5-modus",
   "description": "Various tools for using and integrating with Swagger.",
   "main": "index.js",
   "scripts": {

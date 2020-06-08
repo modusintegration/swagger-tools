@@ -1,5 +1,5 @@
 {
-  "name": "swagger-tools",
+  "name": "@modusintegration/swagger-tools",
   "version": "0.10.4-modus",
   "description": "Various tools for using and integrating with Swagger.",
   "main": "index.js",
@@ -13,13 +13,16 @@
     "url": "https://github.com/whitlockjc"
   },
   "bugs": {
-    "url": "https://github.com/apigee-127/swagger-tools/issues"
+    "url": "https://github.com/modusintegration/swagger-tools/issues"
   },
-  "homepage": "https://github.com/apigee-127/swagger-tools",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "homepage": "https://github.com/modusintegration/swagger-tools",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/apigee-127/swagger-tools.git"
+    "url": "git://github.com/modusintegration/swagger-tools.git"
   },
   "keywords": [
     "api",
